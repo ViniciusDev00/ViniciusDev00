@@ -37,7 +37,7 @@ Estou sempre em busca de novos conhecimentos e experiências que me permitam cre
 
 ## 📬 Como podemos nos conectar?
 
-- **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+- **E-mail**: [vinicius.biancolini.tds24@gmail.com](mailto:vinicius.biancolini.tds24@gmail.com)
 - **LinkedIn**: [Vinicius Biancolini](https://www.linkedin.com/in/vinicius-biancolini)
 - **GitHub**: [viniciusbiancolini](https://github.com/viniciusbiancolini)
 
