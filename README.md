@@ -39,9 +39,11 @@
 ---
 
 ## 🚀 Projetos
-
+<div align="center">
+  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SENAISP-Unid601-Projetos&repo=SENAICommunity&theme=radical)](https://github.com/SENAISP-Unid601-Projetos/SENAICommunity)
 
+</div>
 ---
 
 ## 🌱 Aprendendo
