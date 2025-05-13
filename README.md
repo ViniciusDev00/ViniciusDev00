@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-Meu nome é **Vinicius Biancolini**, tenho **17 anos** e sou de **São Carlos, SP**. Atualmente, estou me formando como **Técnico em Desenvolvimento de Sistemas** no **Senai**, onde estou adquirindo conhecimentos práticos e teóricos sobre programação e desenvolvimento de software.
+Meu nome é **Vinicius Biancolini**, tenho **17 anos** e sou de **São Carlos, SP**. Atualmente, estou me formando como **Técnico em Desenvolvimento de Sistemas** no **Senai-São Carlos**, onde estou adquirindo conhecimentos práticos e teóricos sobre programação e desenvolvimento de software.
 
 Sou apaixonado por **desenvolvimento web**, tanto no **back-end** quanto no **front-end**, e estou sempre buscando aprender e melhorar minhas habilidades para criar soluções eficientes e criativas.
 
