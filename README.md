@@ -9,6 +9,27 @@
 
 ---
 
+## 🌟 Sobre Mim
+
+```javascript
+const vinicius = {
+  idade: 17,
+  localização: "São Carlos, SP",
+  formação: "Técnico em Desenvolvimento de Sistemas @ Senai-SP",
+  interesses: [
+    "Desenvolvimento Web",
+    "Tecnologias Emergentes",
+    "Resolução de Problemas Criativos"
+  ],
+  hobbies: [
+    "Explorar novas tecnologias",
+    "Contribuir para projetos open-source",
+    "Participar de comunidades tech"
+  ]
+};
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Front-End
