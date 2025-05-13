@@ -1,46 +1,56 @@
-# Olá, sou Vinicius Biancolini 👋
+Vinicius Biancolini 👨‍💻
+Desenvolvedor Full-Stack em Formação
 
-## Quem sou eu?
+<div align="center">
+Typing SVG
 
-Meu nome é **Vinicius Biancolini**, tenho **17 anos** e sou de **São Carlos, SP**. Atualmente, estou me formando como **Técnico em Desenvolvimento de Sistemas** no **Senai-São Carlos**, onde estou adquirindo conhecimentos práticos e teóricos sobre programação e desenvolvimento de software.
+</div>
+🛠️ Tech Stack
+Front-End
+HTML5
+CSS3
+JavaScript
+React
 
-Sou apaixonado por **desenvolvimento web**, tanto no **back-end** quanto no **front-end**, e estou sempre buscando aprender e melhorar minhas habilidades para criar soluções eficientes e criativas.
+Back-End
+Node.js
+Java
+MySQL
 
-## 🚀 O que me motiva?
+Ferramentas & Outros
+Git
+GitHub
+VS Code
 
-- **Desafios**: Gosto de resolver problemas e acredito que cada desafio é uma oportunidade de crescimento.
-- **Aprendizado contínuo**: Sei que a tecnologia está sempre evoluindo e estou comprometido em aprender novas ferramentas e técnicas.
-- **Colaboração**: Acredito no poder do trabalho em equipe e na troca de conhecimento com outras pessoas.
+📊 GitHub Stats
+<div align="center">
+GitHub Streak
 
-## 💻 Minhas habilidades
+Estatísticas
 
-Embora esteja no início da minha jornada como desenvolvedor, já adquiri alguns conhecimentos importantes nas seguintes áreas:
+Linguagens mais usadas
 
-### Tecnologias que estou aprendendo:
-- **Linguagens**: JavaScript, HTML5, CSS3, JAVA, SQL
-- **Frameworks e Bibliotecas**: React (Front-end), Node.js (Back-end)
-- **Banco de Dados**: MySQL
-- **Controle de versão**: Git, GitHub
+</div>
+🚀 Projetos em Destaque
+Repo Card
 
-### Outras áreas em que estou desenvolvendo minhas habilidades:
-- Desenvolvimento de **APIs** simples
-- Design de páginas web **responsivas**
-- Otimização de sites para melhorar a performance
+(Substitua "SEU_REPOSITORIO" pelo nome de algum projeto seu)
 
-## 🎯 Objetivos e Aprendizados
+🌱 Aprendendo Atualmente
+TypeScript
 
-Estou focado em aprimorar minhas habilidades nas áreas de **back-end** e **front-end**, e buscar sempre novos desafios para continuar meu aprendizado. Meus objetivos incluem:
+React Native
 
-- Melhorar meu conhecimento em **desenvolvimento de APIs**.
-- Explorar mais sobre **tecnologias modernas** e como aplicá-las em projetos reais.
-- Colaborar em projetos **open-source** para ganhar mais experiência prática.
+Design Patterns
 
-## 📬 Vamos nos conectar?
+Clean Code
 
-Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Você pode me encontrar em:
+📫 Vamos Conectar?
+LinkedIn
+Gmail
+GitHub
 
-- **E-mail**: [seuemail@dominio.com](mailto:vinicius.biancolini.tds24)
-- **LinkedIn**: [Vinicius Biancolini](www.linkedin.com/in/vinicius-biancolini-037984365)
-- **GitHub**: [viniciusbiancolini](https://github.com/ViniciusDev00)
+<div align="center">
+Snake animation
 
-Estou ansioso para trocar experiências e crescer juntos na área de tecnologia. Vamos conversar! 😊
+</div>
