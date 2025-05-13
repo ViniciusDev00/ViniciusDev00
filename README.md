@@ -45,7 +45,7 @@
 
 ## 🚀 Projetos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusDev00&repo=SEU_REPO&theme=radical)](https://github.com/ViniciusDev00/SEU_REPO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/&theme=radical)](https://github.com/SENAISP-Unid601-Projetos/SENAICommunity)
 
 ---
 
