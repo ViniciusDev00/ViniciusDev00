@@ -40,7 +40,7 @@ Estou focado em aprimorar minhas habilidades nas áreas de **back-end** e **fron
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Você pode me encontrar em:
 
 - **E-mail**: [seuemail@dominio.com](mailto:vinicius.biancolini.tds24)
-- **LinkedIn**: [Vinicius Biancolini](https://www.linkedin.com/in/vinicius-biancolini)
-- **GitHub**: [viniciusbiancolini](https://github.com/viniciusbiancolini)
+- **LinkedIn**: [Vinicius Biancolini](www.linkedin.com/in/vinicius-biancolini-037984365)
+- **GitHub**: [viniciusbiancolini](https://github.com/ViniciusDev00)
 
 Estou ansioso para trocar experiências e crescer juntos na área de tecnologia. Vamos conversar! 😊
