@@ -17,9 +17,9 @@ Sou apaixonado por **desenvolvimento web**, tanto no **back-end** quanto no **fr
 Embora esteja no início da minha jornada como desenvolvedor, já adquiri alguns conhecimentos importantes nas seguintes áreas:
 
 ### Tecnologias que estou aprendendo:
-- **Linguagens**: JavaScript, HTML5, CSS3, PHP
+- **Linguagens**: JavaScript, HTML5, CSS3, JAVA, SQL
 - **Frameworks e Bibliotecas**: React (Front-end), Node.js (Back-end)
-- **Banco de Dados**: MySQL, PostgreSQL
+- **Banco de Dados**: MySQL
 - **Controle de versão**: Git, GitHub
 
 ### Outras áreas em que estou desenvolvendo minhas habilidades:
@@ -39,7 +39,7 @@ Estou focado em aprimorar minhas habilidades nas áreas de **back-end** e **fron
 
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Você pode me encontrar em:
 
-- **E-mail**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+- **E-mail**: [seuemail@dominio.com](mailto:vinicius.biancolini.tds24)
 - **LinkedIn**: [Vinicius Biancolini](https://www.linkedin.com/in/vinicius-biancolini)
 - **GitHub**: [viniciusbiancolini](https://github.com/viniciusbiancolini)
 
