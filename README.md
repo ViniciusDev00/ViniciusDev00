@@ -12,22 +12,6 @@
 ## 🌟 Sobre Mim
 
 
-const vinicius = {
-  idade: 17,
-  localizacao: "São Carlos, SP, Brasil",
-  formacao: "Técnico em Desenvolvimento de Sistemas @ Senai-SP",
-  interesses: [
-    "Desenvolvimento Web",
-    "Tecnologias Emergentes",
-    "Resolução de Problemas Criativos"
-  ],
-  hobbies: [
-    "Explorar novas tecnologias",
-    "Contribuir para projetos open-source",
-    "Participar de comunidades tech"
-  ]
-};
-
 ## 🛠️ Tech Stack
 
 ### Front-End
@@ -47,15 +31,6 @@ const vinicius = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDev00&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🚀 Projetos
 <div align="center">
