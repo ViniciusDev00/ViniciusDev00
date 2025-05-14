@@ -11,11 +11,11 @@
 
 ## 🌟 Sobre Mim
 
-javascript
+
 const vinicius = {
   idade: 17,
-  localização: "São Carlos, SP",
-  formação: "Técnico em Desenvolvimento de Sistemas @ Senai-SP",
+  localizacao: "São Carlos, SP, Brasil",
+  formacao: "Técnico em Desenvolvimento de Sistemas @ Senai-SP",
   interesses: [
     "Desenvolvimento Web",
     "Tecnologias Emergentes",
@@ -27,8 +27,6 @@ const vinicius = {
     "Participar de comunidades tech"
   ]
 };
-
----
 
 ## 🛠️ Tech Stack
 
