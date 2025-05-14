@@ -11,7 +11,7 @@
 
 ## 🌟 Sobre Mim
 
-```javascript
+javascript
 const vinicius = {
   idade: 17,
   localização: "São Carlos, SP",
