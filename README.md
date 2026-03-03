@@ -35,22 +35,20 @@ No meu trabalho atual na **NSF**, utilizo **Power BI, SQL e Automação** para o
 
 ### 🚀 Projetos em Destaque
 
-Aqui estão as soluções que desenvolvi unindo lógica de programação e resolução de problemas reais:
-
-* **📦 Controle de Chapas (Industrial)**
+* **📦 [Controle de Chapas (Industrial)](https://github.com/ViniciusDev00/Controle-de-Chapas)**
     * **O que é:** Sistema focado em rastreabilidade e gestão de materiais para o setor industrial, desenvolvido para otimizar o controle de estoque.
     * **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-    * **Diferencial:** Resolve um problema real de logística, demonstrando maturidade e visão de negócio.
+    * **Acesse o Código:** [Ver Repositório 🔗](https://github.com/ViniciusDev00/Controle-de-Chapas)
 
-* **👥 SENAI Community (Plataforma Social)**
+* **👥 [SENAI Community (Plataforma Social)](https://github.com/SENAISP-Unid601-Projetos/SENAICommunity)**
     * **O que é:** Rede social acadêmica focada em integração e troca de conhecimentos entre estudantes de tecnologia.
     * **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    * **Diferencial:** Meu Projeto de Conclusão de Curso (TCC) no SENAI, com foco em arquitetura de dados e backend robusto.
+    * **Acesse o Código:** [Ver Repositório 🔗](https://github.com/SENAISP-Unid601-Projetos/SENAICommunity)
 
-* **🎬 App Mango (Streaming & Catálogo)**
+* **🎬 [App Mango (Streaming & Catálogo)](https://github.com/ViniciusDev00/App-Mango)**
     * **O que é:** Aplicativo interativo para consulta e gerenciamento de catálogos de filmes e séries.
     * **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    * **Diferencial:** Foco em consumo de APIs dinâmicas e experiência do usuário (UX).
+    * **Acesse o Código:** [Ver Repositório 🔗](https://github.com/ViniciusDev00/App-Mango)
 
 ---
 
