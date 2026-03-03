@@ -43,8 +43,7 @@ Atuo na área administrativa/PCP, onde utilizo **Power BI, SQL e Automação** p
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDev00&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDev00&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDev00&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
