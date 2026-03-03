@@ -6,9 +6,9 @@
 </p>
 
 ### 🚀 Sobre Mim
-Sou um entusiasta de tecnologia em transição constante para o desenvolvimento de software. Atualmente graduando em **Engenharia de Computação (UNICEP)** e formado como **Técnico em Desenvolvimento de Sistemas (SENAI)**.
+Sou um entusiasta de tecnologia focado em resolver problemas reais através do desenvolvimento de software. Atualmente sou graduando em **Engenharia de Computação (UNICEP)** e formado como **Técnico em Desenvolvimento de Sistemas (SENAI)**.
 
-Atuo na área administrativa/PCP, onde utilizo **Power BI, SQL e Automação** para otimizar fluxos de trabalho e gerar indicadores estratégicos. Meu objetivo é migrar totalmente para o desenvolvimento Full-Stack, focando em soluções que gerem impacto real no negócio.
+No meu trabalho atual na **NSF**, utilizo **Power BI, SQL e Automação** para otimizar fluxos de trabalho e gerar indicadores estratégicos (KPIs). Meu objetivo é migrar para o desenvolvimento Full-Stack, aplicando minha experiência em processos de negócio para criar soluções eficientes.
 
 ---
 
@@ -33,18 +33,24 @@ Atuo na área administrativa/PCP, onde utilizo **Power BI, SQL e Automação** p
 
 ---
 
-### 💼 Experiência & Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-* **Sistema de Controle Industrial (Full-Stack):** Aplicação desenvolvida para rastreabilidade digital de matéria-prima e dashboards em tempo real. Criado com **React 18, TypeScript, Node.js e Supabase**.
-* **SENAI Community:** Rede social acadêmica focada em integração de estudantes, desenvolvida com **Java, MySQL e Front-end moderno**.
-* **Dashboards PCP (BI):** Desenvolvimento de indicadores de produção (KPIs) via Power BI para monitoramento de prazos e fluxo de materiais.
+Aqui estão as soluções que desenvolvi unindo lógica de programação e resolução de problemas reais:
 
----
+* **📦 Controle de Chapas (Industrial)**
+    * **O que é:** Sistema focado em rastreabilidade e gestão de materiais para o setor industrial, desenvolvido para otimizar o controle de estoque.
+    * **Tech Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+    * **Diferencial:** Resolve um problema real de logística, demonstrando maturidade e visão de negócio.
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusDev00&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+* **👥 SENAI Community (Plataforma Social)**
+    * **O que é:** Rede social acadêmica focada em integração e troca de conhecimentos entre estudantes de tecnologia.
+    * **Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    * **Diferencial:** Meu Projeto de Conclusão de Curso (TCC) no SENAI, com foco em arquitetura de dados e backend robusto.
+
+* **🎬 App Mango (Streaming & Catálogo)**
+    * **O que é:** Aplicativo interativo para consulta e gerenciamento de catálogos de filmes e séries.
+    * **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    * **Diferencial:** Foco em consumo de APIs dinâmicas e experiência do usuário (UX).
 
 ---
 
